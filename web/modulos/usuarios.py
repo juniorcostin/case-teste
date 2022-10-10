@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # Variável para o armazenamento da URL da API
-url = "http://localhost:5000/api/"
+url = "http://api:5000/api/"
 
 # Função para exibição dos dados em tela
 def usuarios():

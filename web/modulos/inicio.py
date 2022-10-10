@@ -4,7 +4,7 @@ import pandas as pd
 
 def inicio():
     # Variável para o armazenamento da URL da API
-    url = "http://localhost:5000/api/"
+    url = "http://api:5000/api/"
 
     body = {
         "email": "viewer@viewer.com",
